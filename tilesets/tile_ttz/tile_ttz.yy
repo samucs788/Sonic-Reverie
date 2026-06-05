@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tile_ttz",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tile_ttz",
+  "out_columns":32,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Dubious Depths",
+    "path":"folders/Tile Sets/Dubious Depths.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"Sprite265",
+    "path":"sprites/Sprite265/Sprite265.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"ArborealAgate",
+    "path":"texturegroups/ArborealAgate",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":1024,
+}
